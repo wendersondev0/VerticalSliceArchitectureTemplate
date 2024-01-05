@@ -1,0 +1,13 @@
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\bin\Debug\net8.0\Common.deps.json
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\bin\Debug\net8.0\Common.dll
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\bin\Debug\net8.0\Common.pdb
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.sourcelink.json
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.dll
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\refint\Common.dll
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\Common.pdb
+D:\projetos\ctgi\projetos_novo_cia\VerticalSliceArchitectureTemplate\CtgiCia.infra.data\obj\Debug\net8.0\ref\Common.dll
